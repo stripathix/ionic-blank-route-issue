@@ -1,0 +1,7 @@
+{
+  "name": "ionic-blank-route-issue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
