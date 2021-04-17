@@ -10,7 +10,7 @@
     </ion-header>
 
     <ion-content>
-      This is Folder screen
+      This is About screen
     </ion-content>
   </ion-page>
 </template>
@@ -27,7 +27,7 @@ import {
 } from "@ionic/vue";
 
 export default {
-  name: "Folder",
+  name: "About",
   components: {
     IonButtons,
     IonContent,
